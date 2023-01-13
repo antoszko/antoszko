@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 I'm Stefan Antoszko, a 2nd year Computer Engineering Student at the UofA!
 
-<!--
-**antoszko/antoszko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 During my free time, I’m attending hackathons, like NatHACKS and HackED, and my projects can be found at these repos:
 
-Here are some ideas to get you started:
+- [Sleep Apnea Guardian](https://github.com/dreambigzhang/Sleep-Apnea-Guardian) * 1st place winners! *
+- [Hexagonal Chess](https://github.com/stefan-png)
+- [FindRoommate.com](https://github.com/dreambigzhang/FindRoommate.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have some other projects which can be found here:
+- [stefan-png](https://github.com/stefan-png) My second github account
+
+🌱 I’m currently learning Python, C++, and Assembly in school, as well as machine learning in my own time
+
+📫 How to reach me: santoszk@ualberta.ca
+
+⚡ Fun fact: I also am interested in hiking in the Rockies, analogue electronics, and food!
