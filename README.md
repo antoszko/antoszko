@@ -9,8 +9,8 @@
 I also have some other projects which can be found here:
 - [stefan-png](https://github.com/stefan-png) My second github account
 
-🌱 I’m currently learning Python, C++, and Assembly in school, as well as machine learning in my own time
+🌱 I’m currently learning Python, C++, and ARM assembly on STM32 in my own time
 
 📫 How to reach me: santoszk@ualberta.ca
 
-⚡ Fun fact: I also am interested in hiking in the Rockies, analogue electronics, and food!
+⚡ Fun fact: I also am interested in hiking, analogue electronics, and food!
