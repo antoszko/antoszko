@@ -3,7 +3,7 @@
 🔭 During my free time, I’m attending hackathons, like NatHACKS and HackED, and my projects can be found at these repos:
 
 - [Sleep Apnea Guardian](https://github.com/dreambigzhang/Sleep-Apnea-Guardian) * 1st place winners! *
-- [Hexagonal Chess](https://github.com/stefan-png)
+- [Hexagonal Chess](https://github.com/stefan-png/hackedbeta22)
 - [FindRoommate.com](https://github.com/dreambigzhang/FindRoommate.com)
 
 I also have some other projects which can be found here:
