@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Stefan Antoszko, a 4th year Computer Engineering Student at the UofA
+## Hi there 👋 I'm Stefan Antoszko, a 4th year Computer Engineering Student at the University of Alberta
 
 🔭 During my free time I attend hackathons like NatHACKS and HackED or work on my musical synthesizer projects. My hackathons can be found at these repos:
 
